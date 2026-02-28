@@ -1,0 +1,29 @@
+
+ul{
+    list-style-type: none;
+}
+p{
+    display: inline-block;
+}
+.btapagar{
+    background-color: rgb(224, 82, 77);border: 1px solid transparent;color: white;
+    padding: 8px 15px 8px 15px;float: right;margin-right: 5%;position: relative;top: 8px;
+}
+.btrestaurar{
+    background-color: rgb(43, 100, 223);border: 1px solid transparent;color: white;float: right;margin-right: 5%;
+    padding: 8px 12px 8px 12px;position: relative;top: 8px;
+}
+
+.checkbox{
+    margin-right: 3%;background-color: green;
+}
+li{
+    border: 1px solid rgb(231, 229, 229);margin-bottom: 2%;
+    
+}
+.botao1{
+    border: none;background-color: transparent;
+}
+.p1{
+    color: green;
+}

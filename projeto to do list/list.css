@@ -1,0 +1,24 @@
+
+
+.pendentes{
+    list-style-type: none;background-color: aquamarine;
+}
+
+p{
+    display: inline-block;margin-top: 2px;position: relative;top: 5px;
+}
+.bt1,.bt2,.bt3{
+ float: right;margin-left: 4px;position: relative;top: 5px;
+}
+.bt33{
+    display:none;
+}
+.input2{
+   margin: 2%;
+}
+.btAT{
+    background-color: rgb(218, 27, 13);
+}
+.li{
+    background-color: white;
+}
